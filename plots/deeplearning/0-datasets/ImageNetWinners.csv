@@ -1,0 +1,9 @@
+YEAR ,	WINNER	                    , TOP 5 ERROR RATE %
+2012 ,	ALEXNET 	                , 15.3
+2013 ,	ZFNET	                    , 11.2
+2014 ,	VGG NET (Runner up) 	    , 7.3
+2014 ,	INCEPTION V1 (GoogLeNet)    , 6.67
+2015 ,	ResNet	                    , 3.57
+2016 ,	ResNeXt	                    , 4.1
+2017 ,	SENet	                    , 2.251
+2018 ,	PNASNet-5	                , 3.8
